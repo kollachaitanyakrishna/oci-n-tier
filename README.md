@@ -1,7 +1,7 @@
 # oci-n-tier
 Oracle as a cloud provider is ready to provide the different VM shapes and sizes that can fit any 3-tier and n-tier architectures. 
+![image](https://user-images.githubusercontent.com/64516009/156035589-0510b007-8c8f-4a5d-a3ea-53b3c4bb4a82.png)
 
-![image](https://user-images.githubusercontent.com/64516009/156035429-c344e989-a18b-4e04-991b-3169ccce23b6.png)
 
 This is a best practice for a client-server application software design pattern. Suggested by different communities to ease software development, deployment and address the scalability problem. 
 
